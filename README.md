@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ShapourNemati
+- 👀 I’m interested in clean code, concurrent and distributed programming, IoT, game development
+- 🌱 I’m currently learning Kubernetes, functional Javascript
+- 💞️ I’m looking to collaborate on game dev or IoT projects
+- 📫 How to reach me: shapournemati@gmail.com
